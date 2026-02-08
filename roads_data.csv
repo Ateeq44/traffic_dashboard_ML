@@ -1,0 +1,25 @@
+
+city,road_name,risk_score,latitude,longitude
+Karachi,Sharea Faisal,0.9,24.86,67.03
+Karachi,Khayaban-e-Shujaat,0.8,24.815,67.04
+Karachi,Khayaban-e-Mujahid,0.75,24.81,67.05
+Karachi,Shahrah-e-Pakistan,0.65,24.93,67.08
+Karachi,Hakeem Ibn-i-Sina Road,0.6,24.92,67.05
+Karachi,Rashid Minhas Road,0.55,24.9,67.10
+Karachi,ICI Bridge (Mauripur Road),0.5,24.86,66.97
+Karachi,Hub River Road,0.45,24.89,66.93
+Karachi,Gulbai Chowk (Mauripur Road),0.4,24.84,66.99
+Karachi,National Highway (Wireless Gate),0.35,24.85,67.28
+Lahore,Ferozepur Road,0.85,31.508,74.325
+Lahore,Ring Road,0.75,31.495,74.40
+Lahore,Mall Road,0.7,31.568,74.318
+Lahore,Jail Road,0.65,31.568,74.338
+Lahore,Canal Road,0.55,31.515,74.36
+Lahore,Multan Road,0.5,31.493,74.30
+Lahore,College Road,0.45,31.45,74.31
+Lahore,Raiwind Road,0.4,31.34,74.21
+Lahore,Main Boulevard Gulberg,0.35,31.53,74.35
+Lahore,Kalma Chowk (Ferozepur Road),0.3,31.514,74.338
+Sargodha,University Road,0.1,32.07,72.69
+Sargodha,Fatima Jinnah Road,0.15,32.09,72.67
+Sargodha,Khushab Road,0.12,32.095,72.64
